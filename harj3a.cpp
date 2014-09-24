@@ -1,3 +1,16 @@
+/***********************************************
+* Ohjelman nimi: Harjoitus 3
+* Tekijä: Juho Nissi
+*Lyhyt kuvaus:
+*	Muokkattu "Hei maailma"-ohjelmaa niin, etta tulostat oman nimesi
+*	ja osoitteesi naytolle allekkain.
+*	HUOM! Nimeä tiedosto harj3a.cpp nimelle!
+*
+* Versio: 1.0
+* PVM: 10.9.2014
+************************************************/
+
+
 /*Kommentti alkaa
 ja jatkuu
 ja jatkuu ... */
