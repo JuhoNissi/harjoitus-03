@@ -1,25 +1,3 @@
-/***********************************************
-* Ohjelman nimi: Harjoitus 3b
-* Tekijä: Juho Nissi
-*Lyhyt kuvaus:
-*	Muokkaa Harj3a.cpp:stä versio nimelle harj3b.cpp, jossa
-*	nimi ja osoite tulostetaan näytälle seuraavasti:
-*
-*	***************************************
-*	* *
-*	* Etunimi *
-*	* Sukunimi *
-*	* *
-*	*-------------------------------------- *
-*	* *
-*	* Asemakatu 7 *
-*	* 40520 JKL *
-*	* *
-*	***************************************
-* Versio: 1.0
-* PVM: 10.9.2014
-************************************************/
-
 /*Kommentti alkaa
 ja jatkuu
 ja jatkuu ... */
